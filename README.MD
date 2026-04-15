@@ -1,5 +1,8 @@
 # Stroke Prediction Project
 
+## Author
+- Aiham Alqasem
+
 ## Project Overview
 This project is a supervised machine learning study for stroke prediction based on patient health and demographic data. The notebook `main1.ipynb` performs data loading, exploratory data analysis, preprocessing, model training, and model comparison using common classification algorithms.
 
