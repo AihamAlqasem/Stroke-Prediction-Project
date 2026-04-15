@@ -1,0 +1,12 @@
+smoking_status
+never smoked       1838
+Unknown            1500
+formerly smoked     867
+smokes              776
+
+
+work_type
+Private          2860
+Self-employed     804
+children          673
+Govt_job          644
